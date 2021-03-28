@@ -1,3 +1,4 @@
+/**作业2 异常处理**/
 import java.io.IOException;
 import java.util.Scanner;
 
