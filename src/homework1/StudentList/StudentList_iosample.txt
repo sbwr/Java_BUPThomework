@@ -1,0 +1,48 @@
+输入样例
+1 2011211301 LiHang 88 79 90
+1 2011211311 WangZhe 80 79 93
+5 10
+5 2
+3 2
+输出样例
+#(input)#1 2011211301 LiHang 88 79 90
+1 Students at the moment as described below:
+Number:2011211301
+Name:LiHang
+Math:88
+English:79
+Science:90
+Ave:85.67
+#(input)#1 2011211311 WangZhe 80 79 93
+2 Students at the moment as described below:
+Number:2011211301
+Name:LiHang
+Math:88
+English:79
+Science:90
+Ave:85.67
+Number:2011211311
+Name:WangZhe
+Math:80
+English:79
+Science:93
+Ave:84.00
+#(input)#5 10
+No such student
+#(input)#5 2
+Student Info:
+Number:2011211311
+Name:WangZhe
+Math:80
+English:79
+Science:93
+Ave:84.00
+#(input)#3 2
+Remove successfully
+1 Students at the moment as described below:
+Number:2011211301
+Name:LiHang
+Math:88
+English:79
+Science:90
+Ave:85.67
