@@ -1,4 +1,5 @@
 作业一：学生类
+Main.java可直接通过oj，祝你好运
 定义一个学生类（Student），
 属性有
 非静态属性String studentNumber
